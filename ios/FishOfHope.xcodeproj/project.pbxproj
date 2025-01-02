@@ -46,8 +46,8 @@
 		00E356EE1AD99517003FC87E /* FishOfHopeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FishOfHopeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* FishOfHopeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FishOfHopeTests.m; sourceTree = "<group>"; };
-		01EF2A1712844262881E456E /* Inter24pt-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter24pt-BoldItalic.ttf"; path = "../src/assets/fonts/Inter24pt-BoldItalic.ttf"; sourceTree = "<group>"; };
-		0D3ED6D8C45942BBBE41B925 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Regular.ttf"; path = "../src/assets/fonts/Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		01EF2A1712844262881E456E /* Inter24pt-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter24pt-BoldItalic.ttf"; path = "../src/assets/fonts/Inter24pt-BoldItalic.ttf"; sourceTree = "<group>"; };
+		0D3ED6D8C45942BBBE41B925 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Regular.ttf"; path = "../src/assets/fonts/Montserrat-Regular.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* FishOfHope.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FishOfHope.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = FishOfHope/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = FishOfHope/AppDelegate.mm; sourceTree = "<group>"; };
@@ -56,25 +56,25 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = FishOfHope/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = FishOfHope/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-FishOfHope-FishOfHopeTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FishOfHope-FishOfHopeTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1E6BAE2A27A24CC187C0CA31 /* Inter18pt-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Bold.ttf"; path = "../src/assets/fonts/Inter18pt-Bold.ttf"; sourceTree = "<group>"; };
-		1FF027E9A93B4C9EB1A64DA8 /* Inter18pt-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Italic.ttf"; path = "../src/assets/fonts/Inter18pt-Italic.ttf"; sourceTree = "<group>"; };
+		1E6BAE2A27A24CC187C0CA31 /* Inter18pt-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Bold.ttf"; path = "../src/assets/fonts/Inter18pt-Bold.ttf"; sourceTree = "<group>"; };
+		1FF027E9A93B4C9EB1A64DA8 /* Inter18pt-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Italic.ttf"; path = "../src/assets/fonts/Inter18pt-Italic.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-FishOfHope.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FishOfHope.debug.xcconfig"; path = "Target Support Files/Pods-FishOfHope/Pods-FishOfHope.debug.xcconfig"; sourceTree = "<group>"; };
-		3C1207451C304DE2A9FD3048 /* Inter18pt-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/Inter18pt-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
-		468F7B5A63F34A7384AF84AA /* Inter18pt-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Regular.ttf"; path = "../src/assets/fonts/Inter18pt-Regular.ttf"; sourceTree = "<group>"; };
+		3C1207451C304DE2A9FD3048 /* Inter18pt-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/Inter18pt-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		468F7B5A63F34A7384AF84AA /* Inter18pt-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Regular.ttf"; path = "../src/assets/fonts/Inter18pt-Regular.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-FishOfHope.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FishOfHope.release.xcconfig"; path = "Target Support Files/Pods-FishOfHope/Pods-FishOfHope.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-FishOfHope-FishOfHopeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FishOfHope-FishOfHopeTests.debug.xcconfig"; path = "Target Support Files/Pods-FishOfHope-FishOfHopeTests/Pods-FishOfHope-FishOfHopeTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5CD4A7F401514FE992D08D85 /* Inter24pt-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter24pt-Bold.ttf"; path = "../src/assets/fonts/Inter24pt-Bold.ttf"; sourceTree = "<group>"; };
+		5CD4A7F401514FE992D08D85 /* Inter24pt-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter24pt-Bold.ttf"; path = "../src/assets/fonts/Inter24pt-Bold.ttf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-FishOfHope.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FishOfHope.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		643FAAA137B842E891027762 /* MontserratAlternates-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Black.ttf"; path = "../src/assets/fonts/MontserratAlternates-Black.ttf"; sourceTree = "<group>"; };
-		810CAA07ABC84581AE101CFD /* Inter18pt-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-MediumItalic.ttf"; path = "../src/assets/fonts/Inter18pt-MediumItalic.ttf"; sourceTree = "<group>"; };
+		643FAAA137B842E891027762 /* MontserratAlternates-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Black.ttf"; path = "../src/assets/fonts/MontserratAlternates-Black.ttf"; sourceTree = "<group>"; };
+		810CAA07ABC84581AE101CFD /* Inter18pt-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-MediumItalic.ttf"; path = "../src/assets/fonts/Inter18pt-MediumItalic.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FishOfHope/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-FishOfHope-FishOfHopeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FishOfHope-FishOfHopeTests.release.xcconfig"; path = "Target Support Files/Pods-FishOfHope-FishOfHopeTests/Pods-FishOfHope-FishOfHopeTests.release.xcconfig"; sourceTree = "<group>"; };
-		B21CE7EC52F24F968EAF9545 /* Inter18pt-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Medium.ttf"; path = "../src/assets/fonts/Inter18pt-Medium.ttf"; sourceTree = "<group>"; };
-		BB6CF66F753C43EC925EDE66 /* Inter18pt-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-SemiBoldItalic.ttf"; path = "../src/assets/fonts/Inter18pt-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
-		CC0169B96D754255B14208BB /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-SemiBold.ttf"; path = "../src/assets/fonts/Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
-		DFEEB3AEF8AE49ADA58A3144 /* MontserratAlternates-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Bold.ttf"; path = "../src/assets/fonts/MontserratAlternates-Bold.ttf"; sourceTree = "<group>"; };
-		E6A6C49A4A9249A586FC1D4C /* Montserrat-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Light.ttf"; path = "../src/assets/fonts/Montserrat-Light.ttf"; sourceTree = "<group>"; };
-		E6BBB967AFD247E5AE7A4BC1 /* Inter18pt-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-SemiBold.ttf"; path = "../src/assets/fonts/Inter18pt-SemiBold.ttf"; sourceTree = "<group>"; };
+		B21CE7EC52F24F968EAF9545 /* Inter18pt-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-Medium.ttf"; path = "../src/assets/fonts/Inter18pt-Medium.ttf"; sourceTree = "<group>"; };
+		BB6CF66F753C43EC925EDE66 /* Inter18pt-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-SemiBoldItalic.ttf"; path = "../src/assets/fonts/Inter18pt-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		CC0169B96D754255B14208BB /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-SemiBold.ttf"; path = "../src/assets/fonts/Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		DFEEB3AEF8AE49ADA58A3144 /* MontserratAlternates-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Bold.ttf"; path = "../src/assets/fonts/MontserratAlternates-Bold.ttf"; sourceTree = "<group>"; };
+		E6A6C49A4A9249A586FC1D4C /* Montserrat-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Light.ttf"; path = "../src/assets/fonts/Montserrat-Light.ttf"; sourceTree = "<group>"; };
+		E6BBB967AFD247E5AE7A4BC1 /* Inter18pt-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter18pt-SemiBold.ttf"; path = "../src/assets/fonts/Inter18pt-SemiBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -159,7 +159,6 @@
 				01EF2A1712844262881E456E /* Inter24pt-BoldItalic.ttf */,
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -502,7 +501,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fishhope.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FishOfHope.app/FishOfHope";
 			};
@@ -526,7 +525,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fishhope.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FishOfHope.app/FishOfHope";
 			};
@@ -539,7 +538,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D4PYW7Q92Y;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = FishOfHope/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
@@ -553,7 +552,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fishhope.app;
 				PRODUCT_NAME = FishOfHope;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -568,7 +567,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D4PYW7Q92Y;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = FishOfHope/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -581,7 +580,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.fishhope.app;
 				PRODUCT_NAME = FishOfHope;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -657,10 +656,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -729,10 +725,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
