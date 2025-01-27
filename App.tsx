@@ -1,8 +1,8 @@
 import React from 'react';
-import FishOfHopeStack from './StackNavigator';
+import AppManager from './src/AppManager';
 
 function App() {
-  return <FishOfHopeStack />;
+  return <AppManager />;
 }
 
 export default App;
