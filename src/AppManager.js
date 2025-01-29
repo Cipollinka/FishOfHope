@@ -85,6 +85,7 @@ export default function AppManager() {
           // робимо запит та обробляємо його
           isPushAccess.current = res;
           initAppsflyer();
+          console.log(res);
         });
       }
     });
@@ -177,11 +178,11 @@ export default function AppManager() {
   async function initAppsflyer() {
     appsFlyer.initSdk({
       devKey: Params.keyApps,
-      isDebug: false,
+      isDebug: true,
       appId: Params.appID,
       onInstallConversionDataListener: true,
       onDeepLinkListener: true,
-      timeToWaitForATTUserAuthorization: 7,
+      timeToWaitForATTUserAuthorization: 10,
     });
 
     // отримання appsflyer ID
